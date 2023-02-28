@@ -15,3 +15,6 @@ BEGIN_JUCE_MODULE_DECLARATION
 END_JUCE_MODULE_DECLARATION
 
 */
+
+#pragma once
+#include "src/processors/stoej_MultiplicativeNoise.h"
