@@ -1,4 +1,5 @@
 #pragma once
+#include <juce_core/juce_core.h>
 #include <stoej_core/stoej_core.h>
 
 #include "../generators/stoej_WhiteNoise.h"
